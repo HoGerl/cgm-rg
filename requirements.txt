@@ -12,7 +12,7 @@ opencv-python==4.4.0.46
 dlib==19.22.1
 face-recognition==1.3.0
 jsonschema==4.1.2
-requests==2.26.0
+requests==2.31.0
 pyntcloud==0.0.1
 cgmzscore==2.0.4
 fastcore==1.3.26
